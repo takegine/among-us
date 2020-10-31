@@ -23,7 +23,7 @@ Only 1 sabotage can be used at a time.
 
 # schinese
 
-DOTA 2版本的谁是卧底
+DOTA 2谁是卧底 beta
 
 
 这是Dota风格的热门游戏“ Among Us”的翻版。
